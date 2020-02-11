@@ -6,15 +6,13 @@ description: A blog about lorem ipsum dolor sit amet
 
 # User settings
 username: Aaron Robson
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+user_description: I am a postgraduate Computer Game Engineering MSc student with a passion for games development and I want to improve my skills and gain vital experience in a working business environment. I primarily focus on engine work but I am hoping to gain more experience in the different fields of the games industry as well.
+user_title: Computer Games Engineering MSc student
+email: aaronrobson19@hotmail.co.uk
+twitter_username: Robson1Aaron
+github_username:  GeordieGinge
+youtube_username:  Aaron Robson
+linkedin_username:  Aaron Robson
 
-# Google-analytics
-google-analytics:
-  id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
